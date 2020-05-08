@@ -22,4 +22,5 @@ build/
 *~
 lib/
 MultiCol_SLAM/Data/indoor_dynamic/pointCloud.ply
+*.zip
 *.ply
